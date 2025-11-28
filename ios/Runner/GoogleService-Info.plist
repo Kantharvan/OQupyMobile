@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>32530436088-74qq6hrg1d3i085bsha4nfol08dtjahn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.32530436088-74qq6hrg1d3i085bsha4nfol08dtjahn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>32530436088-2i3r0afchqes73p52e0v7jspilv3ppn8.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwwGyamFLyhCSQTTP5ed17XBCcvuLEsPE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>32530436088</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.oqupy</string>
+	<key>PROJECT_ID</key>
+	<string>oqupy-assistant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oqupy-assistant.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:32530436088:ios:f0974f8136a6ee06bcd00d</string>
+</dict>
+</plist>

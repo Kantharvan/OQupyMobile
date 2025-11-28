@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "32530436088",
+    "project_id": "oqupy-assistant",
+    "storage_bucket": "oqupy-assistant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32530436088:android:d8823cbc2028e50abcd00d",
+        "android_client_info": {
+          "package_name": "com.example.oqupy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32530436088-4q4rrllvrl7ltmurkorgjl5u8pnl97r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRTYa0sRza0MYCGgTNx8ofc34FvcLYr8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32530436088-4q4rrllvrl7ltmurkorgjl5u8pnl97r4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32530436088-74qq6hrg1d3i085bsha4nfol08dtjahn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oqupy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32530436088:android:7021aefe4049da72bcd00d",
+        "android_client_info": {
+          "package_name": "com.mycompany.oqupy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32530436088-2i3r0afchqes73p52e0v7jspilv3ppn8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.oqupy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "32530436088-sdm76lf16p41u4465td4gkk749g3o281.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.oqupy",
+            "certificate_hash": "a5de587345236f3554a0a1ca01e7fab98b1e1dd2"
+          }
+        },
+        {
+          "client_id": "32530436088-4q4rrllvrl7ltmurkorgjl5u8pnl97r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRTYa0sRza0MYCGgTNx8ofc34FvcLYr8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32530436088-4q4rrllvrl7ltmurkorgjl5u8pnl97r4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "32530436088-74qq6hrg1d3i085bsha4nfol08dtjahn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.oqupy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
